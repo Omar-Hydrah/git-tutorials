@@ -1,0 +1,3 @@
+/**{outline: 1px solid red;}*/
+ul, li{list-style:none;}
+li.link{display:inline;}
